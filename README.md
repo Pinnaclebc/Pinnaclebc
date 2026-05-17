@@ -1,4 +1,5 @@
-### 👋 Hi there, I'm Bruce
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💫 About Me:
 🏫 Currently studying BSIT as a second year student at Mapúa Malayan Colleges Laguna</br>
