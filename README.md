@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Bruce
 
 # 💫 About Me:
-🏫 Currently studying BSIT as a second year student at Mapúa Malayan Colleges Laguna
-🚀 Improving my coding workflow and learning better architecture
-🛠️ Building side projects to test out my skills
-🎮 Configuring servers and optimizing performance in my free time
+🏫 Currently studying BSIT as a second year student at Mapúa Malayan Colleges Laguna</br>
+🚀 Improving my coding workflow and learning better architecture</br>
+🛠️ Building side projects to test out my skills</br>
+🎮 Configuring servers and optimizing performance in my free time</br>
 
 
 ## 🌐 Socials:
