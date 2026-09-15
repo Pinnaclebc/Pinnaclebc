@@ -2,7 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💫 About Me:
-🏫 Currently studying BSIT as a second year student at Mapúa Malayan Colleges Laguna</br>
+🏫 Currently studying BSIT </br>
 🚀 Improving my coding workflow and learning better architecture</br>
 🛠️ Building side projects to test out my skills</br>
 🎮 Configuring servers and optimizing performance in my free time</br>
