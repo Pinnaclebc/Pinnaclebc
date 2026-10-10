@@ -12,3 +12,4 @@
 [2026/10/10 11:27 PM] Aligned the updated profile information in both theme SVGs and corrected today.py to write changes directly into the assets folder.
 [2026/10/10 11:44 PM] Fixed today.py so the calculated birthday age is written to the age_data SVG field during each update.
 [2026/10/10 11:49 PM] Merged the existing Pinnaclebc/Pinnaclebc remote history into the local profile project without conflicts.
+[2026/10/10 11:51 PM] Restored the profile README SVG embed and added a startup batch script for one update-and-push per Windows login.
