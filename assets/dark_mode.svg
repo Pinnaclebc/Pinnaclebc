@@ -56,13 +56,13 @@ text, tspan {white-space: pre;}
   <tspan x="15" y="265">                                               AAAAAAA   AA  AAAAAAAAAA    AAA  AA  AAAAAAAAAAAAAAA                                        </tspan>
   <tspan x="15" y="272">                                               AAAA AAAAA  AA  AAAAAAAA     AAAA  AA  AAAAAA  AAAA                                         </tspan>
   <tspan x="15" y="279">                                               AAAA AAAAAAAAAAAAAAAAAA        AAAAAAAAAAAA    AAAA                                         </tspan>
-  <tspan x="15" y="286">                                                AAAAAAAA          A             A              AA                                          </tspan>
-  <tspan x="15" y="293">                                                AAAAAA           AAAAAAA   AA                  A                                           </tspan>
+  <tspan x="15" y="286">                                                AAAAAAAA                                       AA                                          </tspan>
+  <tspan x="15" y="293">                                                AAAAAA                                          A                                           </tspan>
   <tspan x="15" y="300">                                                AAAAAAA                                        A                                           </tspan>
   <tspan x="15" y="307">                                                 AAAAAAA                                                                                   </tspan>
-  <tspan x="15" y="314">                                                  AAAAAA         AAAA                                                                      </tspan>
-  <tspan x="15" y="321">                                                  AAAAAA        AAAAA                                                                      </tspan>
-  <tspan x="15" y="328">                                                   AAAAAA         AA                                                                       </tspan>
+  <tspan x="15" y="314">                                                  AAAAAA                                                                                   </tspan>
+  <tspan x="15" y="321">                                                  AAAAAA                                                                                   </tspan>
+  <tspan x="15" y="328">                                                   AAAAAA                                                                                  </tspan>
   <tspan x="15" y="335">                                                    AAAAA                                                                                  </tspan>
   <tspan x="15" y="342">                                                     AAAA                                                                                  </tspan>
   <tspan x="15" y="349">                                                     AAAAAAAAA                                                                             </tspan>
