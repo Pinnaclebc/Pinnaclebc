@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 92" role="img" aria-label="Retro terminal prompt">
+  <rect width="900" height="92" rx="10" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <circle cx="28" cy="28" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="28" r="7" fill="#ffbd2e"/>
+  <circle cx="76" cy="28" r="7" fill="#27c93f"/>
+  <text x="28" y="66" fill="#f0f6fc" font-family="monospace" font-size="22">
+    <tspan fill="#f59e0b">bruce@canga</tspan><tspan>:~$ fastfetch</tspan>
+  </text>
+</svg>
