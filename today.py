@@ -5,6 +5,7 @@ import os
 from lxml import etree
 import time
 import hashlib
+import sys
 from pathlib import Path
 
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
@@ -330,6 +331,9 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     Parse SVG files and update elements with my age, commits, stars, repositories, and lines written
     """
+    filename = Path(filename)
+    if not filename.is_absolute():
+        filename = PROJECT_DIR / 'assets' / filename.name
     tree = etree.parse(filename)
     root = tree.getroot()
     justify_format(root, 'age_data', age_data)
@@ -452,13 +456,15 @@ if __name__ == '__main__':
     """
     Andrew Grant (Andrew6rant), 2022-2025
     """
-    missing_svg_files = [str(path.name) for path in SVG_FILES if not path.is_file()]
+    missing_svg_files = [str(path.relative_to(PROJECT_DIR)) for path in SVG_FILES if not path.is_file()]
     if missing_svg_files:
         names = ', '.join(missing_svg_files)
-        raise FileNotFoundError(
-            f'Missing required SVG file(s): {names}. '
-            'Create them in the same folder as today.py before running the script.'
+        print(
+            f'ERROR: Missing required SVG file(s): {names}. '
+            'Create them under the assets folder before running the script.',
+            file=sys.stderr
         )
+        raise SystemExit(1)
 
     print('Calculation times:')
     # define global variable for owner ID and calculate user's creation date
