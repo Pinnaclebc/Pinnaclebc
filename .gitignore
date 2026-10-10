@@ -1,3 +1,6 @@
 update_profile_on_startup.bat
 assets/terminal-dark.svg
 assets/terminal-light.svg
+today.py
+cache/
+changelog.txt
