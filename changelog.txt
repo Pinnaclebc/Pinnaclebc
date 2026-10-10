@@ -14,3 +14,4 @@
 [2026/10/10 11:49 PM] Merged the existing Pinnaclebc/Pinnaclebc remote history into the local profile project without conflicts.
 [2026/10/10 11:51 PM] Restored the profile README SVG embed and added a startup batch script for one update-and-push per Windows login.
 [2026/10/10 11:52 PM] Made SVG path handling compatible with assets-based files and replaced the missing-file traceback with a concise actionable error.
+[2026/10/11 12:13 AM] Ignored the startup batch file and unused terminal SVG assets so they are no longer tracked by Git.
