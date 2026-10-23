@@ -95,7 +95,7 @@ text, tspan {white-space: pre;}
 <text x="540" y="30" fill="#24292f">
 <tspan x="540" y="30">= bruce@canga</tspan> ===============================================
 <tspan x="540" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................</tspan><tspan class="value" x="700">Windows 11</tspan>
-<tspan x="540" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data" x="700">22 years, 7 months, 16 days</tspan>
+<tspan x="540" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data" x="700">22 years, 7 months, 17 days</tspan>
 <tspan x="540" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................</tspan><tspan class="value" x="700">Mapua Malayan Colleges Laguna</tspan>
 <tspan x="540" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value" x="700">BSIT Student</tspan>
 <tspan x="540" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value" x="700">VS 2022, VSCode</tspan>
